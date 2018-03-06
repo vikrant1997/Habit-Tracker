@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">HABIT TRACKER</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Pets</string>
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="habit_text_name">Habit</string>
+    <string name="habit_type">Type</string>
+    <string name="habit_duration">Duration</string>
+    <string name="hint_habit_name">Name</string>
+    <string name="hint_habit_duration">Duration</string>
+    <string name="unit_habit_duration">min</string>
+    <string name="type_constructive">Constructive</string>
+    <string name="type_avoiding">Avoiding</string>
+    <string name="type_unconciousness">Unconciousness</string>
+    <string name="type_destructive">Destructive</string>
+    <string name="time_morning">Morning</string>
+    <string name="time_afternoon">Afternoon</string>
+    <string name="time_evening">Evening</string>
+    <string name="time_night">Night</string>
+    <string name="habit_time">Time</string>
+    <string name="habit_location">Location</string>
+    <string name="hint_habit_location">Location</string>
+</resources>

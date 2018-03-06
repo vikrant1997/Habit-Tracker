@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_habit_type_options">
+        <item>@string/type_constructive</item>
+        <item>@string/type_avoiding</item>
+        <item>@string/type_unconciousness</item>
+        <item>@string/type_destructive</item>
+    </string-array>
+    <string-array name="array_habit_time_options">
+        <item>@string/time_morning</item>
+        <item>@string/time_afternoon</item>
+        <item>@string/time_evening</item>
+        <item>@string/time_night</item>
+    </string-array>
+</resources>
